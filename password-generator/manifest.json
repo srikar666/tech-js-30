@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "My Random Password Generator",
+  "version": "1.0",
+  "description": "A simple random password generator.",
+  "permissions": ["storage"],
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": {
+      "16": "images/copy.png",
+      "48": "images/generate.png"
+    }
+  },
+  
+  "icons": {
+    "16": "images/copy.png",
+      "48": "images/generate.png"
+  }
+}
